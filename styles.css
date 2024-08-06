@@ -56,7 +56,7 @@ p {
   font-style: normal;
 }
 
-@media (max-width: 500px) {
+@media (max-width: 800px) {
   .card {
     width: 90vw;
   }
